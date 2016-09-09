@@ -44,5 +44,5 @@ scalability as the number of users increases.
 
 
 Infrastructure Diagram.
-
+![alt tag](https://github.com/aditya-dhende/cmpe281-project/blob/master/Picture1.png)
 

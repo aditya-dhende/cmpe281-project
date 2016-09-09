@@ -1,8 +1,7 @@
 # cmpe281-project
 Project was to build a mobile sensor cloud.
 
-This project has different functional components and need to be deployed on EC2 instances. These instances need to configured in order to run the 
-project.
+This project has different functional components and need to be deployed on EC2 instances. These instances need to configured in order to run the project.
 
 Following gives description of each component for the working of the project:
 
